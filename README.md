@@ -1,2 +1,2 @@
 # Aula-de-Front
-Git feito na aula de front
+Git feito na aula de front do SENAC
